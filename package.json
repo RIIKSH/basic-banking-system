@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "debug": "^2.6.9",
+    "ejs": "^2.6.2",
+    "express": "^4.16.4",
+    "http-errors": "^1.6.3",
+    "mongoose": "^5.12.10",
+    "mongoose-type-url": "^2.1.0",
+    "mongoose-validator": "^2.1.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.7"
+  },
+  "description": "Hello Everyone, I have successfully completed task #1 of my web development and designing internship at The Sparks Foundation.",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC"
+}
